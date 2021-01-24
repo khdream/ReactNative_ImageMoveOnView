@@ -2,7 +2,6 @@
  *	* https://github.com/tongyy/react-native-draggable
  *
  */
-
 import React from 'react';
 import {View, Text, StyleSheet} from 'react-native';
 
