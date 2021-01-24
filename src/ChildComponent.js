@@ -14,7 +14,6 @@ export default function MyComponent() {
         <Text style={styles.text}>And his sibling</Text>
       </View>
     </View>
-    
   );
 }
 
