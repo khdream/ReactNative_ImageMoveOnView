@@ -30,7 +30,7 @@ export default function App() {
       </Draggable>
       <Draggable
         debug
-        renderColor="red"
+        renderColor="#555"
         renderSize={64}
         x={width * 0.75}
         y={height - 100}
@@ -39,6 +39,7 @@ export default function App() {
         minY={height - 200}
         maxY={height - 20}
         renderText="💩"
+        imageSource={source}
       />
       <Draggable
         debug
